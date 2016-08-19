@@ -1,0 +1,14 @@
+layout_spectrum: 0.7362155
+typography_spectrum: 1
+color:
+  saturation: 0
+  lightness: 0.3784461
+  brandStrength: 0.5125313
+  rhythmicContrast: 0.6641604
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 4x5 Film
